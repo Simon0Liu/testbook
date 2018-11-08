@@ -1,4 +1,4 @@
-# Guid 模版
+# 前言模版
 
 ## Getting Super Powers
 
